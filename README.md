@@ -64,15 +64,16 @@ password to setup. Installation of MySQL is important beacause it is a reliable,
 <img src="https://i.imgur.com/3TS724J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+To open IIS as an admin, I downloaded and installed osTicket and also registered PHP from within IIS. Osticket installer provides access to 
+route inquires created via email, web-forms and clients/cutomers support. Afeterwards, I enabled some section to enable effective work, refreshed osTicket to update changes.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MLtkxnN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+I created a new database, osTicket Vicky Help desk, set a random username and password. 
+Browse through the vicky help desk and I created the osTicket. After the setup was successful, I end users osTicket URL, clean up by deleting the osTicket, set the permission to "Read only" and refresh</p>
 <br />
 
