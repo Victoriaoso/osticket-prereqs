@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/rumjMZo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After I set up the Virtual Machine VM for osTicket withnin a Resource Group in Azure, then login to remote desktop with the IP address of the VM created. The installation of IIS (Internet Information services) in windows is to configure IIS through the control panel, enable IIS CGI and common HTTP features 
+After I set up the Virtual Machine VM for osTicket within a Resource Group in Azure, then login to remote desktop with the IP address of the VM created. The installation of IIS (Internet Information services) in windows is to configure IIS through the control panel, enable IIS CGI and common HTTP features 
 for IIS to be effective. I checked to confirmed the update with 127.0.0.1
 </p>
 <br />
@@ -52,7 +52,7 @@ The PHP manager helps to manage one or many PHP installation. After the installa
 <img src="https://i.imgur.com/jgtbNhR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-I downloaded MySQL and did a typical setup, launched configuration wizzard after the installation. Then click on standard confirguration and setup a random username and
+I downloaded MySQL and did a typical setup, launched configuration wizzard after the installation. Then, click on standard confirguration and setup a random username and
 password to setup. Installation of MySQL is important beacause it is a reliable, fast and easy for database management. It is easy to modify, secure and organise the database. 
 </p>
 <br />
